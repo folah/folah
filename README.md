@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @folah
+- 👀 I’m interested in SQL, NoSQL and Go.
+- 🌱 I’m currently learning Cassandra, Hadoop and NoSQL in general. 
